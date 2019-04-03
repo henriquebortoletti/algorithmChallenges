@@ -1,2 +1,2 @@
-# algorithmChallenges
-Public Repository to solve algorithm challenges with friends.
+# Algorithm Challenges
+Public Repository to solve programming challenges with friends.
