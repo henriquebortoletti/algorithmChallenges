@@ -1,10 +1,10 @@
-package computionalGeometry;
+package cuttingEdge1358;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.*;
 
-public class CuttingEdge1358 {
+public class Main {
     
 	static Scanner s;
     public static void main(String[] args) throws IOException {
