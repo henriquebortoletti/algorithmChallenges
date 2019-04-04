@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.*;
 
-public class Main {
+public class CuttingEdge1358 {
     
 	static Scanner s;
     public static void main(String[] args) throws IOException {
